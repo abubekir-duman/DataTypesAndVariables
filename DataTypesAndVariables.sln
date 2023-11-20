@@ -23,11 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfDemo3", "IfDemo3\IfDemo3.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfDemo4", "IfDemo4\IfDemo4.csproj", "{4E28E1EC-221F-4995-B64F-022B9CAC4837}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfDemo5", "IfDemo5\IfDemo5.csproj", "{379E3B59-1645-4866-8AF3-929575C08858}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfDemo5", "IfDemo5\IfDemo5.csproj", "{379E3B59-1645-4866-8AF3-929575C08858}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{4853AE9F-0576-4B4A-8F01-7091EC12923C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch", "Switch\Switch.csproj", "{4853AE9F-0576-4B4A-8F01-7091EC12923C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev", "Odev\Odev.csproj", "{9872339F-837B-4F51-9177-B664C95113B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev", "Odev\Odev.csproj", "{9872339F-837B-4F51-9177-B664C95113B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop\ForLoop.csproj", "{BA1990B1-BAA6-4F63-A1FB-6C61F545BDF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{9872339F-837B-4F51-9177-B664C95113B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9872339F-837B-4F51-9177-B664C95113B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9872339F-837B-4F51-9177-B664C95113B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA1990B1-BAA6-4F63-A1FB-6C61F545BDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1990B1-BAA6-4F63-A1FB-6C61F545BDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1990B1-BAA6-4F63-A1FB-6C61F545BDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1990B1-BAA6-4F63-A1FB-6C61F545BDF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
